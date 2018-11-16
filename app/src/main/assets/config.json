@@ -1,0 +1,22 @@
+var carousel = [
+  {
+    "carouseltime":"3000",
+    "data":[
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg"
+    ],
+    "url":"img/",
+    "datetime":"1751923200",
+    "activities":true,
+    "carouselist":[
+      {"type":"slide","name":"滑动"},
+      {"type":"fade","name":"淡入淡出"},
+      {"type":"coverflow","name":"墙面"},
+      {"type":"flip","name":"翻页"}
+    ],
+    "carou":"flip"
+  }
+]
